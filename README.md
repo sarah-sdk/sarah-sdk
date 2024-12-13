@@ -1,16 +1,17 @@
-## Hi there 👋
+🌟 Welcome to my GitHub profile!
+I am a Web and Mobile Developer in training, currently undergoing a career change. Starting in September 2024, I’ll be attending the Wild Code School to further develop my skills. I’m actively seeking an apprenticeship starting in March 2025 to enhance my expertise, particularly in Java and Angular.
 
-<!--
-**sarah-sdk/sarah-sdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About me:
 
-Here are some ideas to get you started:
+🛠️ Current technologies: HTML, CSS, JavaScript, TypeScript, React, Express, Node.js, and MySQL.
+🚀 Goal: To specialize in Java, Spring Boot, Hibernate, and PostgreSQL.
+📖 Learning in progress: Recursion, algorithms, and Angular.
+🌱 Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Immersion internship: I had a rewarding experience at Onepoint, which confirmed my passion for development.
+Motivation: I thrive on technical challenges and enjoy learning in stimulating environments.
+
+🎯 What I’m looking for:
+I am seeking a team to join as an apprentice, where I can actively contribute while continuing to grow my expertise in modern technologies.
+
+📫 Feel free to reach out for collaboration or to chat about development!
