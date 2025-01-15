@@ -5,9 +5,9 @@ I am a Web and Mobile Developer in training, currently undergoing a career chang
 
 🛠️ Current technologies: HTML, CSS, JavaScript, TypeScript, React, Express, Node.js, and MySQL.
 
-🚀 Goal: To specialize in Java, Spring Boot, Hibernate, and PostgreSQL.
+🚀 Goal: To specialize in Angular, Java, Spring Boot, Hibernate, and PostgreSQL.
 
-📖 Learning in progress: Recursion, algorithms, and Angular.
+📖 Learning in progress: Recursion, algorithms and POO.
 
 🌱 Experience:
 
