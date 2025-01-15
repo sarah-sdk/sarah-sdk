@@ -12,6 +12,7 @@ I am a Web and Mobile Developer in training, currently undergoing a career chang
 🌱 Experience:
 
 Immersion internship: I had a rewarding experience at Onepoint, which confirmed my passion for development.
+
 Motivation: I thrive on technical challenges and enjoy learning in stimulating environments.
 
 🎯 What I’m looking for:
