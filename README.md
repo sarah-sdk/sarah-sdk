@@ -1,22 +1,32 @@
 🌟 Welcome to my GitHub profile!
-I am a Web and Mobile Developer in training, currently undergoing a career change. Starting in September 2024, I’ll be attending the Wild Code School to further develop my skills. I’m actively seeking an apprenticeship starting in March 2025 to enhance my expertise, particularly in Java and Angular.
 
-🔍 About me:
+I’m a **junior fullstack developer**, recently graduated with the **RNCP title of Web and Mobile Developer (DWWM)** from **Wild Code School**.  
+I’m now pursuing a **Concepteur Développeur d’Applications (CDA)** title at **CESI**, and will start my **apprenticeship at CEA CESTA in September 2025**.
 
-🛠️ Current technologies: HTML, CSS, JavaScript, TypeScript, React, Express, Node.js, and MySQL.
+---
 
-🚀 Goal: To specialize in Angular, Java, Spring Boot, Hibernate, and PostgreSQL.
+🔍 **About me**
 
-📖 Learning in progress: Recursion, algorithms and POO.
+💡 Passionate about building useful and well-crafted applications. I enjoy working on both the front-end and back-end, and I love learning new things every day.
 
-🌱 Experience:
+🛠️ **Current technologies**  
+HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MySQL
 
-Immersion internship: I had a rewarding experience at Onepoint, which confirmed my passion for development.
+📖 **Currently learning**  
+Python, OOP, testing, and improving my software architecture skills.
 
-Motivation: I thrive on technical challenges and enjoy learning in stimulating environments.
+🚀 **Next steps**  
+Deepen my understanding of system design, improve my mastery of fullstack development, and contribute to meaningful, real-world projects.
 
-🎯 What I’m looking for:
+🌱 **Past experience**  
+- 📚 Wild Code School – Fullstack training with hands-on projects and agile teamwork  
+- 🧪 Internship at **Onepoint** – Confirmed my passion for development and teamwork  
+- 🛠️ Personal projects available below ⬇️
 
-I am seeking a team to join as an apprentice, where I can actively contribute while continuing to grow my expertise in modern technologies.
+---
 
-📫 Feel free to reach out for collaboration or to chat about development!
+🎯 **What I’m looking for**  
+Currently, I'm focused on my apprenticeship at the CEA and expanding my skillset through real-world experience and continuous learning.
+
+📫 **Let’s connect!**  
+Feel free to reach out if you’d like to collaborate, exchange tips, or just chat about code!
