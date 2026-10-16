@@ -1,32 +1,42 @@
 🌟 Welcome to my GitHub profile!
 
-I’m a **junior fullstack developer**, recently graduated with the **RNCP title of Web and Mobile Developer (DWWM)** from **Wild Code School**.  
-I’m now pursuing a **Concepteur Développeur d’Applications (CDA)** title at **CESI**, and will start my **apprenticeship at CEA CESTA in September 2025**.
+I’m a **fullstack developer**,  graduated with the **RNCP Level 6 qualification** in **Application Design and Development (CDA)** from CESI.  
+I'm currently pursing the **Lead Developer JavaScript program** at OpenClassrooms, working towards a qualification equivalent to a **Master's degree** (Bac+5), while continuig my apprenticeship at **CEA**.
 
 ---
 
 🔍 **About me**
 
-💡 Passionate about building useful and well-crafted applications. I enjoy working on both the front-end and back-end, and I love learning new things every day.
+💡 Passionate about building useful and well-crafted applications. I enjoy working on both the back-end, and I love learning new things every day.
 
-🛠️ **Current technologies**  
-HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MySQL
+🛠️ ***Technologies & skills**  
+- **Front-end**: HTML, CSS, JavaScript, TypeScript, React
+- **Back-end**: Node.js, Express
+- **Databases**: MySQL, PostgreSQL
+- **Programming**: Python, OOP
+- **Other interests**: Tests, automatisation, software architecture, code quality
 
-📖 **Currently learning**  
-Python, OOP, testing, and improving my software architecture skills.
+📖 **Currently focusing on**  
+- 🚀 Deepening my JavaScript knowledge and strengthening my development practices
+- 🏗️ Improving my software architecture and application design skills
+- 📋 Developing my project management skills
+- 🐍 Building on my Python and OOP knowledge
+- 🧪 Exploring testing strategies and maintainable code practices
 
-🚀 **Next steps**  
-Deepen my understanding of system design, improve my mastery of fullstack development, and contribute to meaningful, real-world projects.
-
-🌱 **Past experience**  
-- 📚 Wild Code School – Fullstack training with hands-on projects and agile teamwork  
-- 🧪 Internship at **Onepoint** – Confirmed my passion for development and teamwork  
-- 🛠️ Personal projects available below ⬇️
+🌱 **My journey**  
+- 🧪 **CEA** - Continuing my apprenticeship and gaining hands-on professional experience
+- 💻 **OpenClassrooms** - Currently pursing the Lead Developer JavaScript program
+- 🎓 **CESI** - Graduated with the CDA qualification
+- 🌱 **Wild Code School** - Fullstack development training, hands-on project and agile teamwork
 
 ---
 
 🎯 **What I’m looking for**  
-Currently, I'm focused on my apprenticeship at the CEA and expanding my skillset through real-world experience and continuous learning.
+I want to keep growing as a developer by deepening my JavaScript expertise, improving my ability to manage projects, and designing robust, maintainable software architectures.
+
+I'm particularly interested in understanding the bigger picture behind software development: from technical design and architecture to implementation, collaboration, and delivery.
+
+I believe in continuous learning, sharing knowledge, and building software that makes a difference.
 
 📫 **Let’s connect!**  
 Feel free to reach out if you’d like to collaborate, exchange tips, or just chat about code!
