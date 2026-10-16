@@ -9,7 +9,7 @@ I'm currently pursing the **Lead Developer JavaScript program** at OpenClassroom
 
 💡 Passionate about building useful and well-crafted applications. I enjoy working on both the back-end, and I love learning new things every day.
 
-🛠️ ***Technologies & skills**  
+🛠️ **Technologies & skills**  
 - **Front-end**: HTML, CSS, JavaScript, TypeScript, React
 - **Back-end**: Node.js, Express
 - **Databases**: MySQL, PostgreSQL
